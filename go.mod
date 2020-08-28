@@ -12,7 +12,7 @@ require (
 	github.com/stretchr/testify v1.5.1
 	golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.3.0
 )
 
 go 1.13
